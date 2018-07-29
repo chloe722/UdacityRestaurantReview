@@ -61,6 +61,7 @@ nav {
 }
 nav h1 {
   margin: auto;
+  padding-top: 25px;
 }
 nav h1 a {
   color: #fff;
@@ -165,7 +166,6 @@ nav h1 a {
   display: block;
   margin: 0;
   max-width: 100%;
-  min-height: 248px;
   min-width: 100%;
 }
 #restaurants-list li h1 {
@@ -279,7 +279,7 @@ nav h1 a {
   list-style-type: none;
   margin: 0 0 30px;
   overflow: hidden;
-  padding: 0 20px 20px;
+  padding: 20px 20px 20px;
   position: relative;
   width: 85%;
 }
@@ -320,7 +320,7 @@ nav h1 a {
 
   body {
     background-color: #fdfdfd;
-    margin: 130px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
     position: relative;
   }
 
