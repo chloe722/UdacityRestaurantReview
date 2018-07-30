@@ -59,11 +59,11 @@ nav {
   background-color: #252831;
   text-align:center;
 }
-nav h1 {
+nav h2 {
   margin: auto;
   padding-top: 25px;
 }
-nav h1 a {
+nav h2 a {
   color: #fff;
   font-size: 14pt;
   font-weight: 200;
